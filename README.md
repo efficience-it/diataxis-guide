@@ -1,0 +1,1 @@
+# diataxis-guide
