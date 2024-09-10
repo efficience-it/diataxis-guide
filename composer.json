@@ -1,0 +1,14 @@
+{
+  "name": "efficience_it/diataxis-guide",
+  "type": "library",
+  "keywords": ["diataxis", "symfony", "documentation"],
+  "description": "Template to build documentation on a symfony project",
+  "homepage": "https://github.com/efficience-it/diataxis-guide",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Louis-Arnaud Catoire",
+      "email": "la.catoire@gmail.com"
+    }
+  ]
+}
